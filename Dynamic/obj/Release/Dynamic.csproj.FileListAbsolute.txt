@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\bin\Release\Dynamic.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\bin\Release\Dynamic.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\bin\Release\MathLibrary.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\bin\Release\MathLibrary.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\obj\Release\Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\obj\Release\Dynamic.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\obj\Release\Dynamic.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\bin\Release\Dynamic.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\bin\Release\Dynamic.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\bin\Release\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\bin\Release\MathLibrary.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\obj\Release\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\obj\Release\Dynamic.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\obj\Release\Dynamic.pdb

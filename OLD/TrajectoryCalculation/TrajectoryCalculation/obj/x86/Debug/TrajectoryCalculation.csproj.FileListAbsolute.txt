@@ -1,0 +1,182 @@
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Form1.resources
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Properties.Resources.resources
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.csproj.GenerateResource.Cache
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.exe
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.pdb
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.ZedGraph1.resources
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ZedGraph.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ZedGraph.xml
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь1\Documents\Visual Studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Zedgraph2.resources
+F:\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+F:\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Form1.resources
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Properties.Resources.resources
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.ZedGraph1.resources
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Zedgraph2.resources
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.csproj.GenerateResource.Cache
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.exe
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.pdb
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.pdb
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.pdb
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ZedGraph.xml
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Пользователь1\Desktop\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.exe
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.pdb
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.pdb
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.pdb
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ZedGraph.xml
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\de\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\es\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\fr\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\hu\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\it\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ja\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\pt\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ru\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sk\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sv\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\tr\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Form1.resources
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Properties.Resources.resources
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.ZedGraph1.resources
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Zedgraph2.resources
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+F:\PID\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+C:\Users\yusupov.al'bert\Desktop\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+C:\Users\yusupov.al'bert\Desktop\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+E:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+E:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.exe
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.pdb
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.pdb
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.pdb
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ZedGraph.xml
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\de\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\es\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\fr\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\hu\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\it\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ja\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\pt\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ru\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sk\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sv\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\tr\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Form1.resources
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Properties.Resources.resources
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.ZedGraph1.resources
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Zedgraph2.resources
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.csprojResolveAssemblyReference.cache
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Form1.resources
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Properties.Resources.resources
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.ZedGraph1.resources
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Zedgraph2.resources
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.csproj.GenerateResource.Cache
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.exe
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.pdb
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\PID.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.pdb
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.pdb
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\PID.pdb
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ZedGraph.xml
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\de\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\es\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\fr\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\hu\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\it\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ja\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\pt\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ru\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sk\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sv\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\tr\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-cn\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-tw\ZedGraph.resources.dll
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+G:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+G:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.exe
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.pdb
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Form1.resources
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Properties.Resources.resources
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.ZedGraph1.resources
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\TrajectoryCalculation.Zedgraph2.resources
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.exe
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\TrajectoryCalculation.pdb
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\PID.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\Navigation.pdb
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\PID.pdb
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ZedGraph.xml
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\IS\Desktop\TrajectCalc\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\bin\Debug\zh-tw\ZedGraph.resources.dll

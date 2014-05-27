@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Release\CarrierControl.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Release\CarrierControl.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Release\CarrierControl.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Release\CarrierControl.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Release\CarrierControl.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Release\CarrierControl.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Release\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Release\MathLibrary.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Release\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Release\CarrierControl.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Release\CarrierControl.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Release\MathLibrary.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Release\MathLibrary.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Release\CarrierControl.csprojResolveAssemblyReference.cache

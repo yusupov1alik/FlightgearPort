@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Диплом\FlightgearPort\FlightgearPort\bin\Release\FlightgearPort.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\FlightgearPort\bin\Release\FlightgearPort.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\FlightgearPort\obj\Release\FlightgearPort.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\FlightgearPort\obj\Release\FlightgearPort.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\bin\Release\FlightgearPort.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\bin\Release\FlightgearPort.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\obj\Release\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\obj\Release\FlightgearPort.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\obj\Release\FlightgearPort.pdb

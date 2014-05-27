@@ -1,0 +1,34 @@
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\bin\Debug\Dynamic.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\obj\Debug\Dynamic.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\bin\Debug\Dynamic.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\bin\Debug\MathLibrary.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\bin\Debug\MathLibrary.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\obj\Debug\Dynamic.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\Dynamic\bin\Debug\Dynamic.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\Dynamic\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\Dynamic\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\Dynamic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\UAV project\FlightgearPort\Dynamic\obj\Debug\Dynamic.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\IS\Desktop\FlightgearPort\Dynamic\bin\Debug\Dynamic.dll
+C:\Users\IS\Desktop\FlightgearPort\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\IS\Desktop\FlightgearPort\Dynamic\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\FlightgearPort\Dynamic\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\FlightgearPort\Dynamic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\FlightgearPort\Dynamic\obj\Debug\Dynamic.dll
+C:\Users\IS\Desktop\FlightgearPort\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\Dynamic\bin\Debug\Dynamic.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\Dynamic\bin\Debug\MathLibrary.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\Dynamic\bin\Debug\MathLibrary.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\Dynamic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\Dynamic\obj\Debug\Dynamic.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\Dynamic\obj\Debug\Dynamic.pdb

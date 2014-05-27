@@ -1,0 +1,169 @@
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.csproj.GenerateResource.Cache
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\Пользователь1\Downloads\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\User\Desktop\BPLA\BPLA\БПЛА\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.csproj.GenerateResource.Cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.dll
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.pdb
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\PID.dll
+C:\Users\IS\Desktop\FlightgearPort\ConnectionTest\bin\Debug\PID.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\PID.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\ConnectionTest\bin\Debug\PID.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\PID.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\bin\Debug\PID.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.dll
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.dll
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\PID.dll
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.pdb
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.pdb
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\bin\Debug\PID.pdb
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\Пользователь1\Downloads\FlightgearPort\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.csproj.GenerateResource.Cache
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.exe
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.pdb
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.dll
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.dll
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.dll
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.dll
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\Navigation.dll
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\PID.dll
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\CarrierControl.pdb
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\Dynamic.pdb
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\FlightgearPort.pdb
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\MathLibrary.pdb
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\Navigation.pdb
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\bin\Debug\PID.pdb
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Form1.resources
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\obj\x86\Debug\ConnectionTest.Properties.Resources.resources
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yusupov.al'bert\Downloads\Debugv\Debugv\FlightgearPort\ConnectionTest\obj\x86\Debug\GenerateResource.write.1.tlog

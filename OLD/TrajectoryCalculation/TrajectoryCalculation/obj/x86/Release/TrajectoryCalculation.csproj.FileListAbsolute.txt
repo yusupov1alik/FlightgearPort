@@ -1,0 +1,31 @@
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\TrajectoryCalculation.exe
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\TrajectoryCalculation.pdb
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\ZedGraph.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\ZedGraph.xml
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.Form1.resources
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.Properties.Resources.resources
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.ZedGraph1.resources
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.csproj.GenerateResource.Cache
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.exe
+C:\Users\Пользователь1\documents\visual studio 2010\Projects\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.pdb
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.csprojResolveAssemblyReference.cache
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.Form1.resources
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.Properties.Resources.resources
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.ZedGraph1.resources
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.Zedgraph2.resources
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.csproj.GenerateResource.Cache
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.exe
+K:\PID\TrajectCalc\TrajectoryCalculation\TrajectoryCalculation\TrajectoryCalculation\obj\x86\Release\TrajectoryCalculation.pdb

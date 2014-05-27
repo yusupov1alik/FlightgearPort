@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+ 
+<PropertyList>
+ <generic>
+  <input>
+   <line_separator>newline</line_separator>
+   <var_separator>,</var_separator>
+ 
+   <!-- Controls -->
+    -<chunk>
+      <name>Longitude Degree</name>
+      <type>float</type>
+      <node>/position/longitude-deg</node>
+      <format>%f</format>
+    </chunk>
+
+    -<chunk>
+      <name>Latitude Degree</name>
+      <type>float</type>
+      <node>/position/latitude-deg</node>
+      <format>%f</format>
+    </chunk>
+
+    -<chunk>
+      <name>altitude</name>
+      <type>float</type>
+      <node>/position/altitude-ft</node>
+      <format>%f</format>
+    </chunk>
+
+    -<chunk>
+      <name>Yaw</name>
+      <type>float</type>
+      <node>/orientation/heading-deg</node>
+      <format>%f</format>
+    </chunk>
+
+    -<chunk>
+      <name>Pitch</name>
+      <type>float</type>
+      <node>/orientation/pitch-deg</node>
+      <format>%f</format>
+    </chunk>
+
+    -<chunk>
+      <name>Roll</name>
+      <type>float</type>
+      <node>/orientation/roll-deg</node>
+      <format>%f</format>
+    </chunk>
+    
+ </input>
+ </generic>
+</PropertyList>

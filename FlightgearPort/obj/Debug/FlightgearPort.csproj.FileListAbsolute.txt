@@ -1,0 +1,20 @@
+C:\Users\IS\Desktop\FlightgearPort\FlightgearPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\FlightgearPort\FlightgearPort\bin\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\FlightgearPort\FlightgearPort\bin\Debug\FlightgearPort.pdb
+C:\Users\IS\Desktop\FlightgearPort\FlightgearPort\obj\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\FlightgearPort\FlightgearPort\obj\Debug\FlightgearPort.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\bin\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\bin\Debug\FlightgearPort.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\obj\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\FlightgearPort\obj\Debug\FlightgearPort.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\FlightgearPort\bin\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\FlightgearPort\bin\Debug\FlightgearPort.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\FlightgearPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\UAV project\FlightgearPort\FlightgearPort\obj\Debug\FlightgearPort.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\FlightgearPort\obj\Debug\FlightgearPort.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\FlightgearPort\bin\Debug\FlightgearPort.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\FlightgearPort\bin\Debug\FlightgearPort.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\FlightgearPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\FlightgearPort\obj\Debug\FlightgearPort.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\FlightgearPort\obj\Debug\FlightgearPort.pdb

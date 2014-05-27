@@ -1,0 +1,1 @@
+K:\PID\TrajectCalc\TrajectoryCalculation\PID\PID\obj\Release\PID.csprojResolveAssemblyReference.cache

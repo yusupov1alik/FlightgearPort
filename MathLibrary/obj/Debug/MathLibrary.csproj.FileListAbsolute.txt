@@ -1,0 +1,20 @@
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\obj\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\MathLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\UAV project\FlightgearPort\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\MathLibrary\obj\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\FlightgearPort\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\FlightgearPort\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\FlightgearPort\MathLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\FlightgearPort\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\FlightgearPort\MathLibrary\obj\Debug\MathLibrary.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\MathLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\MathLibrary\obj\Debug\MathLibrary.pdb

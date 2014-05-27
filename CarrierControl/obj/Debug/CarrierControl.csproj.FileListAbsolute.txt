@@ -1,0 +1,35 @@
+C:\Users\IS\Desktop\FlightgearPort\CarrierControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.pdb
+C:\Users\IS\Desktop\UAV project\FlightgearPort\CarrierControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\UAV project\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.dll
+C:\Users\IS\Desktop\UAV project\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.pdb
+C:\Users\IS\Desktop\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.dll
+C:\Users\IS\Desktop\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\CarrierControl\bin\Debug\CarrierControl.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\CarrierControl\bin\Debug\MathLibrary.pdb
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\CarrierControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.dll
+C:\Users\yusupov.al'bert\Downloads\FlightgearPort\CarrierControl\obj\Debug\CarrierControl.pdb

@@ -1,0 +1,10 @@
+K:\PID\TrajectCalc\TrajectoryCalculation\PID\PID\obj\Release\PID.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь1\Music\PID\PID\obj\Release\PID.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь1\Music\PID\PID\bin\Release\PID.dll
+C:\Users\Пользователь1\Music\PID\PID\bin\Release\PID.pdb
+C:\Users\Пользователь1\Music\PID\PID\bin\Release\MathLibrary.dll
+C:\Users\Пользователь1\Music\PID\PID\bin\Release\Navigation.dll
+C:\Users\Пользователь1\Music\PID\PID\bin\Release\MathLibrary.pdb
+C:\Users\Пользователь1\Music\PID\PID\bin\Release\Navigation.pdb
+C:\Users\Пользователь1\Music\PID\PID\obj\Release\PID.dll
+C:\Users\Пользователь1\Music\PID\PID\obj\Release\PID.pdb

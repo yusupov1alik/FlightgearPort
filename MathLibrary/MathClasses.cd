@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MathLib.Matrix3" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAAAAABQAABAAIeAEAAEAAAAAAABAAAAACgAAAIgA=</HashCode>
+      <FileName>Matrix.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.679" Collapsed="true" />
+  </Class>
+  <Struct Name="MathLib.Vector">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEaAEAAABAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>Vectors.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MathLib.OrientationObject">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAYSAAAAAAAAAABAAAAABAAAAABAA=</HashCode>
+      <FileName>Orientation.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MathLib.Point">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEEACIAAAAAAAAAAAAAAABAAAAAYAE=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MathLib.DynamicState">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAIAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>DynamicState.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

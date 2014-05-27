@@ -1,0 +1,9 @@
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\bin\Release\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\bin\Release\MathLibrary.pdb
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\obj\Release\MathLibrary.dll
+C:\Users\IS\Desktop\Диплом\FlightgearPort\MathLibrary\obj\Release\MathLibrary.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\MathLibrary\bin\Release\MathLibrary.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\MathLibrary\bin\Release\MathLibrary.pdb
+C:\Users\User\Desktop\Диплом\FlightgearPort\MathLibrary\obj\Release\MathLibrary.dll
+C:\Users\User\Desktop\Диплом\FlightgearPort\MathLibrary\obj\Release\MathLibrary.pdb
